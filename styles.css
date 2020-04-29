@@ -1,0 +1,159 @@
+body {
+    margin: 0 10%;
+    font-family: 'Nunito Sans', sans-serif;
+}
+#main {
+    font-family: 'Amatic SC';
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.container {
+    border: 2px solid green;
+    margin: 10px auto;
+    padding-bottom: 35px;
+    padding-top: 5px;
+    padding-left: 25px;
+}
+
+.color-container {
+    width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 24%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+    border-radius: 4px;
+}
+
+.color-label {
+    font-family: 'Bangers';
+}
+
+.cool-blue {
+    background-color: #2d5dcc;
+    color: #fff;
+}
+
+.purple {
+    background-color: #800080;
+    color: white;
+}
+
+.teal {
+    background-color: #008080;
+}
+
+.forest-green {
+    background-color: #228b22;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.lime {
+    background-color: #00ff00;
+}
+
+.aqua {
+    background-color: #00ffff;
+}
+
+.chocolate {
+    background-color: #d2691e;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.fuchsia {
+    background-color: #ff00ff;
+}
+
+.gold {
+    background-color: #ffd700;
+}
+
+.lavender {
+    background-color: #e6e6fa;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.navy {
+    background-color: #000080;
+    color: white;
+}
+
+.grey {
+    background-color: #808080;
+}
+
+.sea-green {
+    background-color: #2e8b57;
+}
+
+.font-panel {
+    width: 30%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.bangers {
+    font-family: 'Bangers', monospace;
+}
+
+.amatic-sc {
+    font-family: 'Amatic SC', monospace;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Poppins',sans-serif;
+}
+
+.text-panel p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 400;
+    font-weight: 14px;
+}
+
+.text-panel {
+    width: 30%;
+    display: inline-block;
+}
